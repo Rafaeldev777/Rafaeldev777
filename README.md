@@ -1,4 +1,4 @@
-# Olá, eu sou o Rafael Souza👋
+# Olá, eu sou o Rafael Souza 👋
 
 ### 🚀 Sobre mim
 Sou **Desenvolvedor de Software** em formação, apaixonado por tecnologia, desenvolvimento web e engenharia de software. Atualmente, foco na construção de aplicações web eficientes e no aprimoramento contínuo das minhas habilidades técnicas.
@@ -21,16 +21,6 @@ Sou **Desenvolvedor de Software** em formação, apaixonado por tecnologia, dese
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelDev777&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDev777&layout=compact&langs_count=7&theme=dark"/>
-</p>
-
----
-
 ### 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://SEU_WEBSITE_OU_PORTFOLIO)
