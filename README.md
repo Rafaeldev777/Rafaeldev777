@@ -20,7 +20,4 @@ Sou **Desenvolvedor de Software** em formação, apaixonado por tecnologia, dese
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
-📬 Vamos nos conectar?
-
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/rafael-menezes-a62151181?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+<a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
