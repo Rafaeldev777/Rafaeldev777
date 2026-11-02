@@ -21,6 +21,6 @@ Sou **Desenvolvedor de Software** em formação, apaixonado por tecnologia, dese
 
 ---
 
-###📬 Vamos nos conectar?
+📬 Vamos nos conectar?
 
 [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/rafael-menezes-a62151181?utm_source=share_via&utm_content=profile&utm_medium=member_android)
